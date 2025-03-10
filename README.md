@@ -10,7 +10,7 @@
 |作業|程式|說明文件|
 |---|---|---|
 |[HW1](HW1)|[HW1_程式](HW1/113_2GenAI_HW1.ipynb)|[HW1_說明](HW1/HW1_ntnu_61308006E.pdf)|
-|[HW2](HW2)|[HW2_程式](HW2/113_2GenAI_HW2.ipynb)||
+|[HW2](HW2)|[HW2_程式](HW2/113_2GenAI_HW2.ipynb)|[HW2_說明](HW2/README.md)|
 |[HW3](HW3)|||
 |[HW4](HW4)|||
 ||||
