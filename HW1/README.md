@@ -9,18 +9,18 @@
 這些函數組合成的結果會是一顆神奇寶貝球，除了是神奇寶貝球的圖案外，我還額外設置了a、b兩個參數，透過調整a、b參數，可以使神奇寶貝球呈現不同的視角。
 - 中文字體
   1. 載入字體
-     > !wget -O LXGWWenKaiMonoTC-Regular.ttf "https://github.com/lxgw/LxgwWenkaiTC/raw/main/fonts/TTF/LXGWWenKaiMonoTC-Regular.ttf"
+     > ```!wget -O LXGWWenKaiMonoTC-Regular.ttf "https://github.com/lxgw/LxgwWenkaiTC/raw/main/fonts/TTF/LXGWWenKaiMonoTC-Regular.ttf"```
   2. 設定字體
      > ![image](https://github.com/user-attachments/assets/dccec26c-35e9-450b-98fe-5a05e604231d)
 - 數學式
   1. $x^{2}+y^{2}-1=0$
-  2. $\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi\right)\right)^{2}+\left(y-\sin\left(b\pi\right)\right)^{2}+\left(\sqrt{1-x^{2}-y^{2}}-\sqrt{1-\sin\left(a\pi\right)^{2}\cos\left(b\pi\right)^{2}-\sin\left(b\pi\right)^{2}}\right)^{2}-0.1\right)\sqrt{\cos\left(a\pi\right)}=0$
-  3. $\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)^{2}+\left(y-\sin\left(b\pi-0.5\pi\right)\right)^{2}+\left(\frac{\operatorname{abs}\left(\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)}{\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)}\sqrt{1-x^{2}-y^{2}}-\sqrt{\left(1-\sin\left(a\pi\right)^{2}\cos\left(b\pi-0.5\pi\right)^{2}-\sin\left(b\pi-0.5\pi\right)^{2}\right)}\right)^{2}-2\right)\sqrt{\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi\right)\right)^{2}+\left(y-\sin\left(b\pi\right)\right)^{2}+\left(\sqrt{1-x^{2}-y^{2}}-\sqrt{1-\sin\left(a\pi\right)^{2}\cos\left(b\pi\right)^{2}-\sin\left(b\pi\right)^{2}}\right)^{2}-0.1\right)}=0$
-  4. $\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)^{2}+\left(y-\sin\left(b\pi-0.5\pi\right)\right)^{2}+\left(\frac{\operatorname{abs}\left(\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)}{\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)}\sqrt{1-x^{2}-y^{2}}-\sqrt{\left(1-\sin\left(a\pi\right)^{2}\cos\left(b\pi-0.5\pi\right)^{2}-\sin\left(b\pi-0.5\pi\right)^{2}\right)}\right)^{2}-2\right)\sqrt{-\cos a\pi}\sqrt{-\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi\right)\right)^{2}+\left(y-\sin\left(b\pi\right)\right)^{2}+\left(\sqrt{1-x^{2}-y^{2}}-\sqrt{1-\sin\left(a\pi\right)^{2}\cos\left(b\pi\right)^{2}-\sin\left(b\pi\right)^{2}}\right)^{2}-0.1\right)}=0$
-  5. $\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi\right)\right)^{2}+\left(y-\sin\left(b\pi\right)\right)^{2}+\left(\sqrt{1-x^{2}-y^{2}}-\sqrt{1-\sin\left(a\pi\right)^{2}\cos\left(b\pi\right)^{2}-\sin\left(b\pi\right)^{2}}\right)^{2}-0.05\right)\sqrt{\cos a\pi}=0$
+  2. ![image](https://github.com/user-attachments/assets/9602f72f-8a5c-4187-b620-8b2261cd7266)
+  3. ![image](https://github.com/user-attachments/assets/5be17c55-bd9c-4ab7-8dbc-aefe46896815)
+  4. ![image](https://github.com/user-attachments/assets/5cd04e8a-becb-432d-a41c-fca3df15e8ee)
+  5. ![image](https://github.com/user-attachments/assets/854739ea-03a3-4a53-b29b-745e6b07c2c8)
 
 - 著色面積
-1. $\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)^{2}+\left(y-\sin\left(b\pi-0.5\pi\right)\right)^{2}+\left(\frac{\operatorname{abs}\left(\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)\right)}{\cos\left(a\pi\right)\cos\left(b\pi-0.5\pi\right)}\sqrt{1-x^{2}-y^{2}}-\sqrt{\left(1-\sin\left(a\pi\right)^{2}\cos\left(b\pi-0.5\pi\right)^{2}-\sin\left(b\pi-0.5\pi\right)^{2}\right)}\right)^{2}-2\right)\sqrt{\left(\left(x-\sin\left(a\pi\right)\cos\left(b\pi\right)\right)^{2}+\left(y-\sin\left(b\pi\right)\right)^{2}+\left(\sqrt{1-x^{2}-y^{2}}-\sqrt{1-\sin\left(a\pi\right)^{2}\cos\left(b\pi\right)^{2}-\sin\left(b\pi\right)^{2}}\right)^{2}-0.1\right)}>0$
+1. ![image](https://github.com/user-attachments/assets/d82c6f8f-9f2b-4c4f-a583-4d894a939750)
 
 - 可變變數
   > 透過調整a、b參數改變呈現角度
