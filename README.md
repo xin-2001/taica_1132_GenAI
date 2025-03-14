@@ -11,7 +11,7 @@
 |---|---|---|
 |[HW1](HW1)|[HW1_程式](HW1/113_2GenAI_HW1.ipynb)|[HW1_說明](HW1/README.md)|
 |[HW2](HW2)|[HW2_程式](HW2/113_2GenAI_HW2.ipynb)|[HW2_說明](HW2/README.md)|
-|[HW3](HW3)|||
+|[HW3](HW3)|[HW3-1_程式](HW2/113_2GenAI_HW3_1.ipynb)<br/>[HW3-2_程式](HW2/113_2GenAI_HW3_2.ipynb)|[HW3_說明](HW3-1/113-2GenAI_HW3-1.md)|
 |[HW4](HW4)|||
 ||||
 ||||
