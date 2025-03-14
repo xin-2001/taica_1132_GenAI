@@ -37,6 +37,11 @@
 來源:[AI生成GAN生圖模型](113_2GenAI_HW3_1.ipynb)
 
 說明:使用Gemini生成GAN生圖程式碼，透過生成對抗網路 (GAN) 的深度學習模型來生成手寫數字圖像。
+- <img src=https://hackmd.io/_uploads/r1vUaLZn1l.png width=40% /> <img src=https://hackmd.io/_uploads/ry1DpLZhJg.png width=40% />
+- <img src=https://hackmd.io/_uploads/BJ9PaU-hke.png width=40% /> <img src=https://hackmd.io/_uploads/SJr_a8bhye.png width=40% />
+- <img src=https://hackmd.io/_uploads/HkC56Ub2kx.png width=40% /> 
+> 
+> 需要花費大量時間訓練，且其很不穩定，可能一下很好，下一次就很不好。
 
 ### 討論
 1. 為什麼現在較沒有人在使用GAN來生圖？
