@@ -34,7 +34,7 @@
 - <img src=https://hackmd.io/_uploads/Sy1Fa4-nke.png width=40% />
 
 ### 模型3
-來源:[AI生成GAN生圖模型]()
+來源:[AI生成GAN生圖模型](113_2GenAI_HW3_1.ipynb)
 
 說明:使用Gemini生成GAN生圖程式碼，透過生成對抗網路 (GAN) 的深度學習模型來生成手寫數字圖像。
 
