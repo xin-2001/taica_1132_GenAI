@@ -20,7 +20,7 @@
 說明:是一個利用生成對抗網絡（GAN）技術創建的專案，它能生成看似真實的人臉圖片，而這些人實際上並不存在。在網站上，每次刷新頁面時，會利用 GAN 的演算法生成一張全新的人臉。模型的原理是通過訓練神經網絡學習大量的真實人臉圖片，然後利用這些數據來創建全新的、完全虛構的圖像。
 - ![2](https://hackmd.io/_uploads/rJlhVqgn1e.jpg)
 
-  > ![2-5](https://hackmd.io/_uploads/rkU04cl31g.png)
+  > ![2-5](https://hackmd.io/_uploads/rkU04cl31g.png=200x)
   > ![2-6](https://hackmd.io/_uploads/HJhRE9lnye.png)
   > 
   > 模型很不穩定，下載會用演算法再生成一張新的，因此網頁看到的並非下載下來的。
