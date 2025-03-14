@@ -29,10 +29,9 @@
 來源:[edges2shoes](https://affinelayer.com/pixsrv/)
 
 說明:Edges2Shoes 是一個基於 Pix2Pix 技術的模型，專門用於圖像到圖像的轉換。這個模型的核心是條件生成對抗網絡（Conditional GAN），它能夠將手繪的鞋子輪廓（edges）轉換成真實感十足的鞋子圖片。Pix2Pix 的工作原理是通過學習輸入圖像（例如輪廓）與目標圖像（例如真實鞋子）之間的映射關係，並同時學習一個損失函數來優化這種映射。這使得模型能夠生成高質量的圖像，並應用於多種圖像轉換任務，例如從素描生成照片、圖像著色等。
-- <img src= width=500px /><img src= width=500px />
-- ![image](https://hackmd.io/_uploads/ryGtnEZ3Jx.png)![image](https://hackmd.io/_uploads/Hk902V-21e.png)
-- ![image](https://hackmd.io/_uploads/HyFJ6VWnJx.png)![image](https://hackmd.io/_uploads/ByhD6E-2yg.png)
-- ![image](https://hackmd.io/_uploads/Sy1Fa4-nke.png)
+- <img src=https://hackmd.io/_uploads/ryGtnEZ3Jx.png width=50% /><img src=https://hackmd.io/_uploads/Hk902V-21e.png width=50% />
+- <img src=https://hackmd.io/_uploads/HyFJ6VWnJx.png width=50% /><img src=https://hackmd.io/_uploads/ByhD6E-2yg.png width=50% />
+- <img src=https://hackmd.io/_uploads/Sy1Fa4-nke.png width=50% />
 
 ### 模型3
 來源:[AI生成GAN生圖模型]()
