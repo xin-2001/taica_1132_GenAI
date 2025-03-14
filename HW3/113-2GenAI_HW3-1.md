@@ -20,9 +20,8 @@
 說明:是一個利用生成對抗網絡（GAN）技術創建的專案，它能生成看似真實的人臉圖片，而這些人實際上並不存在。在網站上，每次刷新頁面時，會利用 GAN 的演算法生成一張全新的人臉。模型的原理是通過訓練神經網絡學習大量的真實人臉圖片，然後利用這些數據來創建全新的、完全虛構的圖像。
 - ![2](https://hackmd.io/_uploads/rJlhVqgn1e.jpg)
 
-  > ![2-5](https://hackmd.io/_uploads/rkU04cl31g.png =200x)
-  > <img src=https://hackmd.io/_uploads/HJhRE9lnye.png width=200px />
-  > ![2-6](https://hackmd.io/_uploads/HJhRE9lnye.png)
+  > <img src=https://hackmd.io/_uploads/rkU04cl31g.png width=500px />
+  > <img src=https://hackmd.io/_uploads/HJhRE9lnye.png width=500px />
   > 
   > 模型很不穩定，下載會用演算法再生成一張新的，因此網頁看到的並非下載下來的。
 
@@ -30,6 +29,7 @@
 來源:[edges2shoes](https://affinelayer.com/pixsrv/)
 
 說明:Edges2Shoes 是一個基於 Pix2Pix 技術的模型，專門用於圖像到圖像的轉換。這個模型的核心是條件生成對抗網絡（Conditional GAN），它能夠將手繪的鞋子輪廓（edges）轉換成真實感十足的鞋子圖片。Pix2Pix 的工作原理是通過學習輸入圖像（例如輪廓）與目標圖像（例如真實鞋子）之間的映射關係，並同時學習一個損失函數來優化這種映射。這使得模型能夠生成高質量的圖像，並應用於多種圖像轉換任務，例如從素描生成照片、圖像著色等。
+- <img src= width=500px /><img src= width=500px />
 - ![image](https://hackmd.io/_uploads/ryGtnEZ3Jx.png)![image](https://hackmd.io/_uploads/Hk902V-21e.png)
 - ![image](https://hackmd.io/_uploads/HyFJ6VWnJx.png)![image](https://hackmd.io/_uploads/ByhD6E-2yg.png)
 - ![image](https://hackmd.io/_uploads/Sy1Fa4-nke.png)
