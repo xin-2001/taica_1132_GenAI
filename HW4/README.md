@@ -1,6 +1,5 @@
 # 作業四
 113-2 TAICA_生成式AI：文字與圖像生成的原理與實務
-[TOC]
 
 ## 主題:不同LLM的Benchmarks結果
 建立自己的benchmarks
