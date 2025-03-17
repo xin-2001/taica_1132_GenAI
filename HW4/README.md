@@ -1,7 +1,3 @@
----
-title: 113-2GenAI_HW4
-tags: 113-2 TAICA_生成式AI
----
 # 作業四
 113-2 TAICA_生成式AI：文字與圖像生成的原理與實務
 [TOC]
