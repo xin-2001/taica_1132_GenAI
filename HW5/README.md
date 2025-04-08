@@ -43,7 +43,7 @@ def mychatbot(prompt):
 ```
 若使用Hugging face需依照模型的規則進行設置
 ### 結果展示
-> ![image.png](resurt1-1.png)
+> ![image.png](result1-1.png)
 >
-> ![image.png](resurt1-2.png)
+> ![image.png](result1-2.png)
 
