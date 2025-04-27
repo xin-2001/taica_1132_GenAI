@@ -16,4 +16,6 @@
 |[HW5](HW5)|[HW5-1_程式](HW5/113_2GenAI_HW5.ipynb)|[HW5_說明](HW5/README.md)|打造柴語生成器|
 |[HW6](HW6)|[HW6-1_程式](HW6/113_2GenAI_HW6_1.ipynb),[HW6-1.5_程式](HW6/113_2GenAI_HW6_1_5.ipynb)<br />[HW6-2_程式](HW6/113_2GenAI_HW6_2.ipynb)|[HW6_說明](HW6/README.md)|柴柴引導式機器人(Ollama),柴語生成器(Gemini)<br/>互相對話的機器人|
 |[HW7](HW7)|[HW7_程式](HW7/113_2GenAI_HW7_2.ipynb)|[HW7_說明](HW7/README.md)|RAG對話機器人|
-|[HW8](HW8)||||
+|[HW8](HW8)|[HW8_程式](HW7/113_2GenAI_HW8.ipynb)<br />[HW8_a_程式](HW8/113_2GenAI_HW8_a.ipynb)<br />[HW8_c_程式](HW8/113_2GenAI_HW8_c.ipynb)|[HW8_說明](HW8/README.md)|使用aisuite同時利用多個LLM<br />群組發言小幫手<br />柴語生成器(CoT)|
+|[HW9](HW9)||||
+|[HW10](HW10)||||
