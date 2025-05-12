@@ -52,19 +52,19 @@
 ### 製作成視覺化界面
 使用[程式碼2](113_2GenAI_HW10_g.ipynb)
 - 使用Gradio呈現
-> [!image.png](hw10-11.png)
+> ![image.png](hw10-11.png)
 
 ### 結果展現
 1. Three dogs playing in the square, one of which is a Shiba Inu.
-   > [!image.png](hw10-1.png)
-   > [!image.png](hw10-2.png)
-   > [!image.png](hw10-3.png)
+   > ![image.png](hw10-1.png)
+   > ![image.png](hw10-2.png)
+   > ![image.png](hw10-3.png)
 2. Shiba Inu sitting in front of the computer and working.
-   > [!image.png](hw10-4.png)
-   > [!image.png](hw10-5.png)
-   > [!image.png](hw10-6.png)
+   > ![image.png](hw10-4.png)
+   > ![image.png](hw10-5.png)
+   > ![image.png](hw10-6.png)
 3. Shiba Inu running in the rain.
-   > [!image.png](hw10-7.png)
-   > [!image.png](hw10-8.png)
-   > [!image.png](hw10-9.png)
-   > [!image.png](hw10-10.png)
+   > ![image.png](hw10-7.png)
+   > ![image.png](hw10-8.png)
+   > ![image.png](hw10-9.png)
+   > ![image.png](hw10-10.png)
