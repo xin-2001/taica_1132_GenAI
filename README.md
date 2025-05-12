@@ -18,4 +18,6 @@
 |[HW7](HW7)|[HW7_程式](HW7/113_2GenAI_HW7_2.ipynb)|[HW7_說明](HW7/README.md)|RAG對話機器人|
 |[HW8](HW8)|[HW8_程式](HW8/113_2GenAI_HW8.ipynb)<br />[HW8_a_程式](HW8/113_2GenAI_HW8_a.ipynb)<br />[HW8_c_程式](HW8/113_2GenAI_HW8_c.ipynb)|[HW8_說明](HW8/README.md)|使用aisuite同時利用多個LLM<br />群組發言小幫手<br />柴語生成器(CoT)|
 |[HW9](HW9)|[HW9_程式](HW9/113_2GenAI_HW9.ipynb)|[HW9_說明](HW9/README.md)|柴犬風格圖|
-|[HW10](HW10)||||
+|[HW10](HW10)|[HW10_程式](HW10/113_2GenAI_HW10.ipynb)|[HW10_說明](HW10/README.md)|diffusers套件圖像生成|
+|[HW11](HW11)||||
+|[HW12](HW12)||||
