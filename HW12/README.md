@@ -20,7 +20,7 @@
      - 設計14個角色設定。
    - 每個對話17輪(被提問LLM與提問LLM來回為一輪)。
    - 對話完畢後輸出為CSV檔。
-   - [程式碼](Final_Project/Dialogue_Generation.ipynb)
+   - [程式碼](https://github.com/xin-2001/taica_1132_GenAI/blob/7a65b351b1623e7f18a84a4f8b5fcaf9bc93f8d8/Final_Project/Dialogue_Generation.ipynb)
 2. 將對話編碼
    - 開發一電腦科學的對話類別編碼。
    - 使用Google AI Studio 輔助編碼。
