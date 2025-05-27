@@ -24,6 +24,7 @@
 2. 將對話編碼
    - 開發一電腦科學的對話類別編碼。
    - 使用Google AI Studio 輔助編碼。
-3. 序列分析
-   - 使用[布丁布丁吃甚麼?](https://blog.pulipuli.info/2010/12/sequential-analysis-tool.html)分析結果。
+3. 分析
+   - 序列分析:使用[布丁布丁吃甚麼?](https://blog.pulipuli.info/2010/12/sequential-analysis-tool.html)。
+   - 滯後序列分析:使用[滯後序列分析計算器Lag Sequential Analysis](https://pulipulichen.github.io/HTML-Lag-Sequential-Analysis/)。
   
