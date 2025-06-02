@@ -21,21 +21,35 @@
 - 說明:本研究以 Google Gemini-2.5-flash 作為被提問的 LLM，Groq Llama3-70b-8192 作為提問的 LLM，透過不同角色設定，觀察其在資訊科學問題上的提問模式與互動方式。本研究以序列分析方法，探索不同角色設定如何影響提問過程，並評估模型間的提問策略是否能有效改善問題解決的效率。
 
 ## 研究設計
-1. 對話生成工具
-   - 使用Colab做為開發工具
-   - 被提問LLM模型：Google Gemini-2.5-flash
-   - 提問LLM模型：Groq Llama3-70b-8192
-     - 設計14個角色設定。[角色設定](角色設定.csv)
-   - 每個對話17輪(被提問LLM與提問LLM來回為一輪)。
-   - 對話完畢後輸出為CSV檔。
-   - [對話生成程式碼](https://github.com/xin-2001/taica_1132_GenAI/blob/7a65b351b1623e7f18a84a4f8b5fcaf9bc93f8d8/Final_Project/Dialogue_Generation.ipynb)
-   - 對話生成紀錄：[原始對話資料](原始對話資料)。
-2. 編碼
-   - 開發一電腦科學的對話類別編碼。[編碼表](編碼表.md)
-   - 使用Google AI Studio 輔助編碼。[編碼結果](編碼結果)
-3. 分析
-   - 序列分析:使用[布丁布丁吃甚麼?](https://blog.pulipuli.info/2010/12/sequential-analysis-tool.html)。
-   - 滯後序列分析:使用[滯後序列分析計算器Lag Sequential Analysis](https://pulipulichen.github.io/HTML-Lag-Sequential-Analysis/)。
+### 對話生成工具
+> [對話生成程式碼](https://github.com/xin-2001/taica_1132_GenAI/blob/7a65b351b1623e7f18a84a4f8b5fcaf9bc93f8d8/Final_Project/Dialogue_Generation.ipynb)
+1. 使用Colab做為開發工具
+2. 被提問LLM模型：Google Gemini-2.5-flash
+   > system prompt:
+   > """
+   > - 你是一個友善的對話機器人，負責回答使用者的提問。
+   > - 學生將會針對以下題目進行提問，題目:「請你對LLM提問來解決以下問題:"台灣某城市的交通事故數據顯示，在特定地點與時間段事故率較高。請設計一個預測與警示系統，以降低事故發生率。"」。
+   > - 回答需根據受試者的提問層次，從簡單回答開始，逐步深化內容，避免一次性提供完整答案。
+   > - 回答方式需以提示或建議為主，讓受試者透過提問獲取關鍵資訊。
+   > - 回答時請使用繁體中文。
+   > """
+3. 提問LLM模型：Groq Llama3-70b-8192
+  - 設計14個角色設定。[角色設定](角色設定.csv)
+
+4. 每個對話17輪(被提問LLM與提問LLM來回為一輪)。
+
+5. 對話完畢後輸出為CSV檔。
+ 
+6. 對話生成紀錄：[原始對話資料](原始對話資料)。
+
+
+### 編碼
+- 開發一電腦科學的對話類別編碼。[編碼表](編碼表.md)
+- 使用Google AI Studio 輔助編碼。[編碼結果](編碼結果)
+### 分析
+- 序列分析:使用[布丁布丁吃甚麼?](https://blog.pulipuli.info/2010/12/sequential-analysis-tool.html)。
+- 滯後序列分析:使用[滯後序列分析計算器Lag Sequential Analysis](https://pulipulichen.github.io/HTML-Lag-Sequential-Analysis/)。
+
 ## 結果
 ### 十四個角色個案序列分析
 1. 第一位：資訊工程系大四的男學生
