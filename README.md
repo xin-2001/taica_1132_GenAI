@@ -21,4 +21,4 @@
 |[HW10](HW10)|[HW10_程式](HW10/113_2GenAI_HW10_g.ipynb)|[HW10_說明](HW10/README.md)|diffusers套件圖像生成|
 |[HW11](HW11)|[HW11_程式](HW11/113_2GenAI_HW11.ipynb)|[HW11_說明](HW11/README.md)|Fooocus圖片生成|
 |[HW12](HW12)|-|[HW12_說明](HW12/README.md)|期末專案發想|
-|[Final Project](Final_Project)|||期末專案|
+|[Final Project](Final_Project)|[期末專案_說明](Final_Project/README.md)|[對話生成器](Final_Project/Dialogue_Generation.ipynb)|期末專案|
