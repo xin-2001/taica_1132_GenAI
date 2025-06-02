@@ -41,7 +41,7 @@
    - 第一輪為系統發送題目給LLM_B。
    - 後續由for迴圈來執行兩個LLM對話。
    - 順序是LLM_B->LLM_A->LLM_B->LLM_A...->LLM_B，LLM_B共對話17次。
-```python=
+```python
 response_B,messages_stu = reply(name="stu",system=system_B, prompt=prompt,
                   provider=provider_B,
                   model=model_B,
@@ -71,7 +71,7 @@ for i in range(16):
    - 輸出檔案欄位包含：role、timestamp、content。
    - 其中最上面3筆資料為記錄LLM設定與題目，包含LLM_set、stu_set、topic。
    - 對話生成紀錄：[原始對話資料](原始對話資料)。
-```python=
+```python
 # 設置匯出按鈕及方式
 from gradio import File
 import csv
